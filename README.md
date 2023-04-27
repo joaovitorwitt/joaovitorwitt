@@ -9,7 +9,7 @@
 <br><br>
 
 ---
-<h2 align="center">💻 Toolkit</h2>
+<h2 align="center">💻 Programming Languages & Tools</h2>
 <br>
 <div align="center">
   <img width="40px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp;
