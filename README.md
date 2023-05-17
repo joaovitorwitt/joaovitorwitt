@@ -1,5 +1,5 @@
-<h2>Hello</h2>
-<!-- <h1 align="center">Hello</h1> -->
+<!-- <h2>Hello</h2> -->
+<h2 align="center">Hello</h2>
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=joaovitorwitt&show_icons=true&theme=radical"/>&nbsp;&nbsp;&nbsp;
@@ -9,8 +9,8 @@
 <br><br>
 
 ---
-<!-- <h2 align="center">💻 Programming Languages & Tools</h2> -->
-<h2>💻 Programming Languages & Tools</h2>
+<h2 align="center">💻 Programming Languages & Tools</h2>
+<!-- <h2>💻 Programming Languages & Tools</h2> -->
 
 <br>
 <div align="center">
@@ -35,8 +35,8 @@
 
 </div>
 
-<!-- <h2 align="center">Projects</h2> -->
-<h2>Projects</h2>
+<h2 align="center">Projects</h2>
+<!-- <h2>Projects</h2> -->
 
 
 
