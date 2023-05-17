@@ -1,5 +1,5 @@
 <h1>Hello</h1>
-
+<!-- <h1 align="center">Hello</h1> -->
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=joaovitorwitt&show_icons=true&theme=radical"/>&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,9 @@
 <br><br>
 
 ---
-<h2 align="center">💻 Programming Languages & Tools</h2>
+<!-- <h2 align="center">💻 Programming Languages & Tools</h2> -->
+<h2>💻 Programming Languages & Tools</h2>
+
 <br>
 <div align="center">
   <img width="40px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp;
@@ -33,7 +35,8 @@
 
 </div>
 
-<h2 align="center">Projects</h2>
+<!-- <h2 align="center">Projects</h2> -->
+<h2>Projects</h2>
 
 
 
