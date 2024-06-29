@@ -29,11 +29,5 @@
   <img width="40px" alt="angular" title="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp;&nbsp;&nbsp
 </div>
 
-<div align="center">
-
-![snake gif](https://github.com/joaovitorwitt/joaovitorwitt/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 
 
